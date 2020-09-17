@@ -2,3 +2,8 @@ body {
   font-family: Raleway;
   padding: 20px 60px;
 }
+
+a {
+  color: black;
+  text-decoration-style: none;
+}
